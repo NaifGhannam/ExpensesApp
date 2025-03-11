@@ -1,10 +1,10 @@
-📌 ExpensesApp
+# 📌 ExpensesApp
 
-📋 Description
+## 📋 Description
 
 ExpensesApp is a personal expense tracker built using SwiftUI. It allows users to add, view, sort, and filter expenses dynamically. The app also supports a Dark Mode Toggle and data persistence using UserDefaults, ensuring expenses remain saved even after the app restarts.
 
-🚀 Features
+##🚀 Features
 
 ✅ Add Expenses: Enter expense details including name, amount, and category.
 
@@ -23,14 +23,15 @@ ExpensesApp is a personal expense tracker built using SwiftUI. It allows users t
 
 
 
-📷 Screenshots
+## 📷 Screenshots
+
+
+ 
+
+
 <img width="425" alt="Screenshot 1446-09-11 at 7 13 45 AM" src="https://github.com/user-attachments/assets/dd66fb5f-cf89-422a-adc4-6c42962ca22b" />
 
-
-
-
-
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Swift
 
